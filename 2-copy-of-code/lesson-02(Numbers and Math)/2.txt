@@ -1,0 +1,8 @@
+In this lesson: 
+
+1. Numbers and Math 
+2. Order of Operations, and Brackets (...)
+3. Calculated the numbers in final project
+4. Calculations using floats can be inaccurate
+5. Math.round()
+6. How to search for code in our own 
