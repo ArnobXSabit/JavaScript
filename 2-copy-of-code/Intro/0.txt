@@ -1,0 +1,33 @@
+a. By the end of this course, we're going to build amazon.com
+b. Smaller Projects: 
+  1. Rock Paper Scissors. 
+  2. Todo List. 
+  3. calculator. 
+
+c. What We'll Learn: 
+  1. JavaScript Basics. 
+  2. Number and Math. 
+  3. Strings. 
+  4. Variables. 
+  5. Booleans, If-Statements. 
+  6. Functions. 
+  7. Objects and DOM. 
+  8. Arrays and Loops. 
+  9. HTML, CSS, JS Together. 
+
+d. Advanced Features: 
+  1. Modules. 
+  2. Testing. 
+  3. Object-Oriented Programming(OOP). 
+  4. Backend. 
+  5. Callbacks. 
+  6. Promises. 
+  7. Async Await. 
+- We will use this features together to build a compex Projects
+  which is the Amazon project. 
+- This will let you: 
+  - practice what you learn. 
+  - deepen your understanding. 
+
+e. Over 250 Exercises. 
+

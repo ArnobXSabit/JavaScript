@@ -1,0 +1,14 @@
+Synatx: 
+- rules that we have to follow 
+  when using a programming language 
+- similar to English 
+  (grammer)
+- in programming, we have to follow 
+  the rules of syntax exactly 
+
+
+Int this lesson: 
+1. JavaScript is giving instructions to a computer. 
+2. Wrote JavaScript code. 
+3. Run out code using the Console. 
+4. Syntax. 

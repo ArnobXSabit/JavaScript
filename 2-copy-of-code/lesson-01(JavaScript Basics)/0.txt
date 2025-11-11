@@ -1,0 +1,15 @@
+a. Waht is JavaScript? 
+  - A technology that we use to create websites.  
+
+b. 3 Technologies (to create a website)
+  1. HTML -> creates the content. 
+  2. CSS -> changes the appearance. 
+  3. JavaScript -> makes it interactive. 
+
+c. Setup: 
+  1. Install web browser(lets us view websites) -> Google Chrome. 
+
+d. What is JavaScript? 
+  - giving instructions to a computer. 
+  - the computer follows out instructions. 
+
